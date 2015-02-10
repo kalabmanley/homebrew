@@ -13,16 +13,16 @@
 2. 4.5gal apple juice concentrate
 3. 1.75lbs dextrose
 4. 6oz green tea (2min steep time).
-5. 0.5oz hibiscus (+ 5 to 7min steep time).
+5. 1/2oz hibiscus (+ 5 to 7min steep time).
 6. 1 Tbsp lemon juice.
-7. 0.5gal water
+7. 1/2gal water
 
 ## Rooibus Vanilla Apple : [5gal batch]
 1. Red Star paesture champagne
 2. 2lbs corn sugar
 3. 4oz Rooibos (3min min steep time).
 4. 4.5gal apple juice concenrate
-5. 0.5gal distilled water.
+5. 1/2gal distilled water.
 
 ## "Special Cider" : [1gal batch]
 1. 1gal 100% apple juice.
@@ -32,13 +32,13 @@
 5. 64oz cannabis tinscture
  * Vegetable glycerin
  * Cannabis of desired potency :)
-6. 0.5Tbsp yeast nutrient (thiamin, vitamin B complex).
-7. 0.25gal distilled water.
+6. 1/2Tbsp yeast nutrient (thiamin, vitamin B complex).
+7. 1/4gal distilled water.
 8. 2grams african red spice.
 
 ## RasAppPom Cider
 1. 4.5gal 100% apple cider.
 2. 1.5lbs destrose (5.5cups).
 3. 40z dried raspberry.
-4. 0.25gal pomagranite juice.
-5. 0.5Tbsp yeast nutrient.
+4. 1/4gal pomagranite juice.
+5. 1/2Tbsp yeast nutrient.
