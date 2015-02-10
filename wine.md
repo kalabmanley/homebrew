@@ -1,6 +1,6 @@
 # Wine Recipes : Please make a PR
 
-## \#R1315
+## \#R1315 : [1gallon batch]
 1. Paesture Red yeast 5grams.
 2. 3.5cup corn sugar.
 3. 1/2Tbsp yeast nutrient.
@@ -10,7 +10,7 @@
 5. 1/2quart H2O.
 6. Tankin 0.25tsp.
 
-## \#R1415
+## \#R1415 : [1gallon batch]
 1. Cote Des Blances 5grams.
 2. 3.5cups corn sugar.
 3. 3/4Tbsp yeast nutrient.
@@ -20,7 +20,7 @@
 5. 1/3quart H2O.
 6. 1/4 tsp.
 
-## \#R1515
+## \#R1515 : [1gallon batch]
 1. Montrachet 1/4tsp acid blend
 2. 1.5cup corn sugar.
 3. 1/4Tbsp yeast nutrient.
